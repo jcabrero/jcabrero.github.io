@@ -2,12 +2,7 @@
 layout: default
 ---
 
-# Welcome to my webpage
+# Introduction to HE
 
-Welcome to my webpage. My name is José Cabrero Holgueras, I am a PhD student at CERN, where I do Privacy Preserving Deep Learning. In this webpage you will find all sort of information that I will post regarding **Homomorphic Encryption**, **Secure Multiparty Computation**, **Differential Privacy** and **Deep Learning** in general.
-
-
-# Posts 
-[Introduction to Homomorphic Encryption](./posts/introduction_to_he.md).
-
+Please, if you come here and the post is not complete, come back in a few days. This post is still under development.
 
