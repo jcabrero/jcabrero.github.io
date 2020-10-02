@@ -8,6 +8,7 @@ Welcome to my webpage. My name is José Cabrero Holgueras, I am a PhD student at
 
 
 # Posts 
-1. [Introduction to Homomorphic Encryption](./posts/introduction_to_he.md).
+
+[Introduction to Homomorphic Encryption](./posts/introduction_to_he.md).
 
 
