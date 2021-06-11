@@ -1,2 +1,13 @@
 theme: jekyll-theme-architect
 title: José on Privacy
+author: José Cabrero Holgueras
+email: jose@cabreroholgueras.com
+description: > # this means to ignore newlines until "twitter_username:"
+ My name is José Cabrero Holgueras, I am a PhD student 
+ at CERN and Universidad Carlos III in Madrid, where 
+ I research Privacy-Preserving Deep Learning. 
+ I like to post wherever my research brings me regarding 
+ **Homomorphic Encryption**, **Secure Multiparty Computation**, 
+ **Differential Privacy** and **Deep Learning** in general.
+ Probably, I will post with other topics that I follow in my spare time such as:
+  IoT with different boards (Raspberry Pi, Arduino).
