@@ -30,7 +30,6 @@ Elaboration of my Ph.D. thesis on Privacy Preserving Techniques for Deep Learnin
 
 ### M.Sc. in Cybersecurity
 #### University Carlos III of Madrid, Madrid, Spain (Sep. 2018 - Jul. 2019)
-
 * English: 100\% of credits in English within an international environment.
 * GPA: 9.25/10.0 with honours Distinction on 3 subjects and Outstanding in 7.
 * M.Sc. Thesis: A Methodology for Large-Scale Identification of Related Accounts in Underground Forums (Supervisor: Sergio Pastrana).
@@ -39,7 +38,6 @@ Elaboration of my Ph.D. thesis on Privacy Preserving Techniques for Deep Learnin
 
 ### B.Sc. in Computer Science and Engineering (EUR-ACE Label)
 #### University Carlos III of Madrid, Madrid, Spain (Sep. 2014 - Jul. 2018)
-
 * Bilingual: 96\% of the credits coursed in English within an international environment.
 * Last course GPA: 9.56/10.00 (3.82/4.00)
 * Global: Top 5\%; 16 subjects graded with Honours Distinction and 9 subjects with Outstanding.
