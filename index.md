@@ -28,6 +28,7 @@ Implementation of the *P0542R5* specification Implementation of Contract Based P
 Elaboration of my Ph.D. thesis on Privacy Preserving Techniques for Deep Learning. It involves the development and research of *Homomorphic Encryption*, *Secure Multiparty Computation*, *Differential Privacy* and *Federated Learning* in its application to *Deep Learning*.
 
 ### M.Sc. in Cybersecurity
+
 #### University Carlos III of Madrid, Madrid, Spain (Sep. 2018 - Jul. 2019)
 * English: 100\% of credits in English within an international environment.
 * GPA: 9.25/10.0 with honours Distinction on 3 subjects and Outstanding in 7.
@@ -36,6 +37,7 @@ Elaboration of my Ph.D. thesis on Privacy Preserving Techniques for Deep Learnin
 
 
 ### B.Sc. in Computer Science and Engineering (EUR-ACE Label)
+
 #### University Carlos III of Madrid, Madrid, Spain (Sep. 2014 - Jul. 2018)
 * Bilingual: 96\% of the credits coursed in English within an international environment.
 * Last course GPA: 9.56/10.00 (3.82/4.00)
@@ -45,10 +47,12 @@ Elaboration of my Ph.D. thesis on Privacy Preserving Techniques for Deep Learnin
 ## Awards
 
 ### RandomPower Hackathon First Place
+
 #### Project: True Random Differential Privacy
 Quantum random number generation of Differential Privacy and private analysis of medical images.
 
 ### CERN Summer Student Webfest Hackathon Winner
+
 #### Project: Guess what Particle
 Second prize.
 
@@ -64,7 +68,7 @@ Community of Madrid, to facilitate the development of university education of st
 
 * **Programming Languages**: Professional Experience in Python and C++. Proficiency in Java, C, SQL and Bash Script. Knowledge of Matlab, Pearl and Go.
 
-* **Machine Learning Stanford University Online**: {Development of algorithms such as Linear Regression, Logistic Regression, \textbf{Artificial Neural Networks and Deep Learning}, Anomaly Detection, Recommender Systems and SVM. Principal Component Analysis (PCA) for Dimensionality Reduction and Working with \textbf{Large Scale Datasets (Big Data)} for Master Thesis. Basic Text Mining and Computer Vision applications.
+* **Machine Learning Stanford University Online**: Development of algorithms such as Linear Regression, Logistic Regression, Artificial Neural Networks and Deep Learning, Anomaly Detection, Recommender Systems and SVM. Principal Component Analysis (PCA) for Dimensionality Reduction and Working with Large Scale Datasets (Big Data) for Master Thesis. Basic Text Mining and Computer Vision applications.
 
 * **Deep Learning Specialization Coursera deeplearning.ai**: [Neural Networks and Deep Learning](https://coursera.org/share/d78e97d372df69f63e2e3df0598e03fd), [Improving Deep Neural Networks: Hyperparameter tuning and Optimization](https://coursera.org/share/23a97a3788f6e1b6f815ecd2137a0bb2), [Structuring Machine Learning Projects](https://coursera.org/share/1d39ff31c831f2429dc7ae5fa605d97c), [Convolutional Neural Networks](https://coursera.org/share/dabd48970dcdc76eced6a0ed823aa541), [Sequence Models](https://coursera.org/share/2fd07291efc067adbe49ed3cd3662da3)
 
