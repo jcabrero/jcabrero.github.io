@@ -23,8 +23,10 @@ Implementation of the *P0542R5* specification Implementation of Contract Based P
 
 
 ## Education
+
 ### Ph.D. in Computer Science and Technology
 #### Universidad Carlos III de Madrid, Madrid, Spain (Nov. 2019 - Now)
+Elaboration of my Ph.D. thesis on Privacy Preserving Techniques for Deep Learning. It involves the development and research of *Homomorphic Encryption*, *Secure Multiparty Computation*, *Differential Privacy* and *Federated Learning* in its application to *Deep Learning*.
 
 ### M.Sc. in Cybersecurity
 #### University Carlos III of Madrid, Madrid, Spain (Sep. 2018 - Jul. 2019)
@@ -44,6 +46,7 @@ Implementation of the *P0542R5* specification Implementation of Contract Based P
 * B.Sc. Thesis: Support for Contract Based Programming on Modern C++ (10.0/10.0 Honours Distinction)(Supervisor: Jos\'e Daniel Garc\'ia S\'anchez).
 
 ## Awards
+
 ### RandomPower Hackathon First Place
 #### Project: True Random Differential Privacy
 Quantum random number generation of Differential Privacy and private analysis of medical images.
@@ -59,6 +62,7 @@ Community of Madrid, to facilitate the development of university education of st
 ## Publications 
 
 * [SoK: Privacy-Preserving Computation Techniques for Deep Learning](https://petsymposium.org/2021/files/papers/issue4/popets-2021-0064.pdf), PoPETS 2021.
+
 ## Skills
 
 * **Programming Languages**: Professional Experience in Python and C++. Proficiency in Java, C, SQL and Bash Script. Knowledge of Matlab, Pearl and Go.
