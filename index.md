@@ -23,7 +23,6 @@ Implementation of the *P0542R5* specification Implementation of Contract Based P
 
 
 ## Education
-
 ### Ph.D. in Computer Science and Technology
 #### Universidad Carlos III de Madrid, Madrid, Spain (Nov. 2019 - Now)
 Elaboration of my Ph.D. thesis on Privacy Preserving Techniques for Deep Learning. It involves the development and research of *Homomorphic Encryption*, *Secure Multiparty Computation*, *Differential Privacy* and *Federated Learning* in its application to *Deep Learning*.
@@ -37,7 +36,7 @@ Elaboration of my Ph.D. thesis on Privacy Preserving Techniques for Deep Learnin
 
 
 ### B.Sc. in Computer Science and Engineering (EUR-ACE Label)
-#### University Carlos III of Madrid, Madrid, Spain (Sep. 2014 - Jul. 2018)
+#### University Carlos III of Madrid, Madrid, Spain (Sep. 2014 - Jul. 2018)
 * Bilingual: 96\% of the credits coursed in English within an international environment.
 * Last course GPA: 9.56/10.00 (3.82/4.00)
 * Global: Top 5\%; 16 subjects graded with Honours Distinction and 9 subjects with Outstanding.
@@ -46,7 +45,7 @@ Elaboration of my Ph.D. thesis on Privacy Preserving Techniques for Deep Learnin
 ## Awards
 
 ### RandomPower Hackathon First Place
-#### Project: True Random Differential Privacy
+#### Project: True Random Differential Privacy
 Quantum random number generation of Differential Privacy and private analysis of medical images.
 
 ### CERN Summer Student Webfest Hackathon Winner
