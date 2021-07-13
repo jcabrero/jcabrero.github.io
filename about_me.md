@@ -1,6 +1,11 @@
 ---
 layout: default
 ---
+# Contact
+
+* [jose.cabrero.holgueras@cern.ch](mailto:jose.cabrero.holgueras@cern.ch)
+* Twitter: [@jcabreroholg](https://twitter.com/jcabreroholg)
+
 
 # Experience
 
