@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Contact
+# Contact
 
 * [jose.cabrero.holgueras@cern.ch](mailto:jose.cabrero.holgueras@cern.ch)
 * Twitter: [@jcabreroholg](https://twitter.com/jcabreroholg)
@@ -30,14 +30,14 @@ Elaboration of my Ph.D. thesis on Privacy Preserving Techniques for Deep Learnin
 
 ### M.Sc. in Cybersecurity
 
-#### University Carlos III of Madrid, Madrid, Spain (Sep. 2018 - Jul. 2019)
+#### University Carlos III of Madrid, Madrid, Spain (Sep. 2018 - Jul. 2019)
 * English: 100\% of credits in English within an international environment.
 * GPA: 9.25/10.0 with honours Distinction on 3 subjects and Outstanding in 7.
 * M.Sc. Thesis: A Methodology for Large-Scale Identification of Related Accounts in Underground Forums (Supervisor: Sergio Pastrana).
 * Relevant Coursework: Identification & Authentication, Cybersecurity Management & Administration, Cyberdefense Systems, Data Protection, Cyberattack Techniques and Software Systems Exploitation.
 
 
-### B.Sc. in Computer Science and Engineering (EUR-ACE Label)
+### B.Sc. in Computer Science and Engineering (EUR-ACE Label)
 
 #### University Carlos III of Madrid, Madrid, Spain (Sep. 2014 - Jul. 2018)
 * Bilingual: 96\% of the credits coursed in English within an international environment.
@@ -54,7 +54,7 @@ Quantum random number generation of Differential Privacy and private analysis of
 
 ### CERN Summer Student Webfest Hackathon Winner
 
-#### Project: Guess what Particle
+#### Project: Guess what Particle
 Second prize.
 
 ### Excellence Scolarship
