@@ -15,8 +15,8 @@ Welcome to my webpage. My name is José Cabrero Holgueras, I am a PhD student at
 
 
 # Posts 
-
-[What I would have loved to know about HE when I started my Ph.D. (Part 1)](./posts/introduction_to_he.md).
+In this first post, I cover an overview of the merits of HE in becoming an interesting technology:
+* [What I would have loved to know about HE when I started my Ph.D. (Part 1)](./posts/introduction_to_he.md).
 
 
 
