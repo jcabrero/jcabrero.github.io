@@ -12,7 +12,7 @@ Welcome to my webpage. My name is José Cabrero Holgueras, I am a PhD student at
 # My Recent Publications 
 
 * [SoK: Privacy-Preserving Computation Techniques for Deep Learning](https://petsymposium.org/2021/files/papers/issue4/popets-2021-0064.pdf), PoPETS 2021.
-* [A Methodology for Large-Scale Identification of Related Accounts in Underground Forums](papers/COSE2021_MultFS.pdf), PoPETS 2021.
+* [A Methodology for Large-Scale Identification of Related Accounts in Underground Forums](papers/COSE2021_MultFS.pdf), Computers & Security 2021.
 
 
 # Posts 
