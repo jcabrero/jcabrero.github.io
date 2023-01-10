@@ -3,14 +3,15 @@ layout: default
 ---
 # Contact
 
-* [jose.cabrero.holgueras@cern.ch](mailto:jose.cabrero.holgueras@cern.ch)
+* Mail: [jose@cabreroholgueras.com](mailto:jose@cabreroholgueras.com)
+* UC3M Mail: [jose.cabrero@alumnos.uc3m.es](mailto:jose.cabrero@alumnos.uc3m.es)
 * Twitter: [@jcabreroholg](https://twitter.com/jcabreroholg)
 
 
 # Experience
 
 ###  CERN Doctoral Student Programme 
-#### CERN, Geneva, Switzerland (Nov. 2019 - Now)
+#### CERN, Geneva, Switzerland (Nov. 2019 - Nov. 2022)
 Elaboration of my Ph.D. thesis on Privacy Preserving Techniques for Deep Learning. It involves the development and research of *Homomorphic Encryption*, *Secure Multiparty Computation*, *Differential Privacy* and *Federated Learning* in its application to *Deep Learning*.
 
 ###  CERN Summer Student Programme
